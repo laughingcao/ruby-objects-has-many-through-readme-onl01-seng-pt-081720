@@ -1,4 +1,4 @@
-
+require_relative './lib/customer.rb'
 
 class Customer
   attr_accessor :name, :age
