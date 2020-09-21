@@ -1,4 +1,4 @@
-
+require_relative './lib/waiter.rb'
 
 
 class Waiter
