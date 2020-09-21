@@ -1,4 +1,4 @@
-
+require_relative './lib/meal.rb'
 
 
 class Meal
