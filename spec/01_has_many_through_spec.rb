@@ -1,1 +1,0 @@
-spec/01_has_many_through_spec.rb
